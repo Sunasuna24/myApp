@@ -13,5 +13,5 @@ If those above are done, I will move to next step.
 2020-03-15
 I think I've got the image of 'C' and 'V'. For the next step, I will challange to 
 
-4)Models
+4)Model
 5)Users management
